@@ -1,4 +1,4 @@
-package io.github.slawekwaga.systemyoperacyjne;
+package io.github.slaweknowy.systemyoperacyjne;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
